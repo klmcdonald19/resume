@@ -1,0 +1,48 @@
+/*styles for my resume*/
+body {
+  font-family: 'Open Sans', Arial, sans-serif;
+  font-size: 1em;
+  color: #444;
+  font-weight: 400;
+}
+/*my name banner*/
+h1 {
+  font-size: 3em;
+  color: #33485e;
+  text-transform: uppercase;
+  text-align: center;
+}
+/*umd title*/
+#Title1 {
+  font-size: 1.5em;
+  text-transform: uppercase;
+  color: #33485e;
+}
+/*section headers*/
+h2 {
+  font-size: 1.5em;
+  text-transform: uppercase;
+  background-color: #33485e;
+  color: white;
+  font-weight: 400;
+}
+/*job*/
+h3 {
+  font-weight: 600;
+  font-size: 1.5em;
+}
+/*organization*/
+h4{
+  font-weight: 400;
+  font-size: 1.5em;
+}
+/*dates*/
+h5{
+  font-size: 1em;
+  font-weight: 400;
+  font-style: italic;
+}
+/*list*/
+ul{
+  font-size: 1em;
+}
